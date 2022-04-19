@@ -22,6 +22,7 @@ pipeline {
                     }    
                 }
             }
+            
             stage('Docker Push') {
                 steps {
                     script {
