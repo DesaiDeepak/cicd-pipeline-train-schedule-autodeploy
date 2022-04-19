@@ -13,7 +13,6 @@ spec:
     nodePort: 30008
 
 ---
-
 apiVersion: apps/v1
 kind: Deployment
 metadata:
